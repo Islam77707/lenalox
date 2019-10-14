@@ -25,5 +25,5 @@ namespace ConsoleApplication8
             }
             Console.ReadKey();
         }
-    }
+    } ку лохххх
 }
