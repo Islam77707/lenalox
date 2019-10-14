@@ -15,9 +15,7 @@ namespace ConsoleApplication8
                 {
                     NumPlus = array[i];
                     Console.WriteLine(NumPlus);
-                } // ДАНИИЛ КРУТОЙ ,А КОРЗИНА КРУГЛАЯ
-                //ReversNum = -array[i];
-                //Console.WriteLine(-array[i]); 
+                } 
             }
             foreach (int i in array)
             {
@@ -25,5 +23,5 @@ namespace ConsoleApplication8
             }
             Console.ReadKey();
         }
-    } ку лохххх
+    } // ку опропроопрорп
 }
